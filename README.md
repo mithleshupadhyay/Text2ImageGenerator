@@ -49,7 +49,7 @@ This project is licensed under the [MIT License](https://github.com/git/git-scm.
 ## Acknowledgments
 
 - [Hugging Face Transformers](https://huggingface.co/transformers/): The Transformers library provides state-of-the-art natural language processing models.
-- [Stable Diffusion](https://github.com/stabilityai/diffusers): Stable Diffusion is a generative model used for image generation.
+- [Stable Diffusion](https://github.com/Stability-AI/stablediffusion): Stable Diffusion is a generative model used for image generation.
 - OpenCV: OpenCV is used for image processing in this project.
 - Accelerate: Accelerate is a PyTorch library for high-performance computing.
 
